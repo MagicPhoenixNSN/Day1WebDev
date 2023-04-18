@@ -1,9 +1,17 @@
 .PizzaText p {
-    font: small-caps bold 1.2rem sans-serif;
+    font: Roboto Condenseds bold 1.2rem sans-serif;
     font-size: 40px;
     color: chocolate;
 }
 
 .QuestionText h2 {
     color: rgb(227, 115, 36);
+}
+
+.OrderText h2 {
+    color: rgb(240, 152, 89);
+}
+
+.OrderText h1 {
+    color: rgb(240, 192, 89);
 }
